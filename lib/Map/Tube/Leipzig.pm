@@ -1,6 +1,6 @@
 package Map::Tube::Leipzig;
 
-$Map::Tube::Leipzig::VERSION   = '0.02';
+$Map::Tube::Leipzig::VERSION   = '0.03';
 $Map::Tube::Leipzig::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Map::Tube::Leipzig - Interface to the Leipzig Rail Map.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 

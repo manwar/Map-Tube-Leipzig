@@ -1,6 +1,6 @@
 package Map::Tube::Leipzig::Line::S7;
 
-$Map::Tube::Leipzig::Line::S7::VERSION   = '0.02';
+$Map::Tube::Leipzig::Line::S7::VERSION   = '0.03';
 $Map::Tube::Leipzig::Line::S7::AUTHORITY = 'cpan:MANWAR';
 
 use v5.14;
@@ -13,7 +13,9 @@ Map::Tube::Leipzig::Line::S7 - Leipzig Rail Map: S7 Line.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
+
+=encoding utf8
 
 =head1 DESCRIPTION
 
