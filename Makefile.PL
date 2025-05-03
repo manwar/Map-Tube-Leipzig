@@ -33,9 +33,9 @@ WriteMakefile(
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
         provides    => {
-            'Map::Tube::Leipzig'           => { file => 'lib/Map/Tube/Leipzig.pm'        , version => '0.01' },
-            'Map::Tube::Leipzig::Line::S3' => { file => 'lib/Map/Tube/Leipzig/Line/S3.pm', version => '0.01' },
-            'Map::Tube::Leipzig::Line::S7' => { file => 'lib/Map/Tube/Leipzig/Line/S7.pm', version => '0.01' },
+            'Map::Tube::Leipzig'           => { file => 'lib/Map/Tube/Leipzig.pm'        , version => '0.02' },
+            'Map::Tube::Leipzig::Line::S3' => { file => 'lib/Map/Tube/Leipzig/Line/S3.pm', version => '0.02' },
+            'Map::Tube::Leipzig::Line::S7' => { file => 'lib/Map/Tube/Leipzig/Line/S7.pm', version => '0.02' },
         },
         resources => {
             repository => {

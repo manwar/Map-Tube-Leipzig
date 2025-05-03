@@ -1,6 +1,6 @@
 package Map::Tube::Leipzig;
 
-$Map::Tube::Leipzig::VERSION   = '0.01';
+$Map::Tube::Leipzig::VERSION   = '0.02';
 $Map::Tube::Leipzig::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
@@ -9,7 +9,7 @@ Map::Tube::Leipzig - Interface to the Leipzig Rail Map.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
@@ -27,7 +27,7 @@ with 'Map::Tube';
 
 =head1 DESCRIPTION
 
-This was created and published while participating in the <B>Perl Toolchain Summit 2025<B> in Leipzip, Germany.
+This was created and published while participating in the B<Perl Toolchain Summit 2025> in Leipzip, Germany.
 
 It currently provides functionality to find the shortest  route between  the  two
 given  nodes. It covers the following rail lines only for now:
@@ -36,7 +36,7 @@ given  nodes. It covers the following rail lines only for now:
 
 =item * L<S3|Map::Tube::Leipzig::Line::S3>
 
-=item * L<S3|Map::Tube::Leipzig::Line::S7>
+=item * L<S7|Map::Tube::Leipzig::Line::S7>
 
 =back
 
