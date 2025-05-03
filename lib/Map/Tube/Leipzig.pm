@@ -27,6 +27,8 @@ with 'Map::Tube';
 
 =head1 DESCRIPTION
 
+This was created and published while participating in the <B>Perl Toolchain Summit 2025<B> in Leipzip, Germany.
+
 It currently provides functionality to find the shortest  route between  the  two
 given  nodes. It covers the following rail lines only for now:
 
