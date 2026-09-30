@@ -1,8 +1,6 @@
 Changes
 share/leipzig-map.xml
 lib/Map/Tube/Leipzig.pm
-lib/Map/Tube/Leipzig/Line/S3.pm
-lib/Map/Tube/Leipzig/Line/S7.pm
 Makefile.PL
 LICENSE
 MANIFEST
@@ -12,5 +10,4 @@ t/00-load.t
 t/map-tube-leipzig.t
 xt/manifest.t
 xt/pod.t
-xt/meta-yml.t
-xt/meta-json.t
+xt/version.t
