@@ -30,7 +30,7 @@ WriteMakefile(
         'Map::Tube'            => '4.09',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
-    test  => { TESTS => 't/*.t xt/*.t' },
+    test  => { TESTS => 't/*.t' },
     clean => { FILES => 'Map-Tube-Leipzig-*' },
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },

@@ -1,5 +1,9 @@
 Revision history for Map::Tube::Leipzig
 
+v1.0.0  Wed Oct 21 01:15:00 2026
+        - Added unit test: xt/provides.t
+        - Bumped version to resolve conflict.
+
 v0.1.1  Thu Oct 16 02:45:00 2026
         - Prepared by Gisbert W. Selke.
         - Maintenance release, no new content.

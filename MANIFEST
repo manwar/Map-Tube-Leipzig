@@ -13,4 +13,5 @@ t/03-nodes.t
 t/04-lines.t
 xt/manifest.t
 xt/pod.t
+xt/provides.t
 xt/version.t
